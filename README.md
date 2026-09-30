@@ -82,7 +82,7 @@
 ### 📣 Scouting Contact
 
 <a href="mailto:ciprianmoisenco@gmail.com"><img src="https://img.shields.io/badge/Email-16a34a?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-16a34a?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ciprianmoisenco/"><img src="https://img.shields.io/badge/LinkedIn-16a34a?style=flat&logo=linkedin&logoColor=white" /></a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:16a34a,100:14532d&height=110&section=footer&text=Full%20time%20%E2%80%94%20thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="footer" />
